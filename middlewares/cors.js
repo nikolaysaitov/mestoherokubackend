@@ -1,6 +1,6 @@
 const allowedCors = [
-  'https://saitovkms.nomoredomains.xyz',
-  'http://saitovkms.nomoredomains.xyz',
+  'https://mestoherokufrontend.herokuapp.com/',
+  'http://mestoherokufrontend.herokuapp.com/',
   'localhost:3000',
   'http://localhost:3000',
 ];
