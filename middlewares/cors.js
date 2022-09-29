@@ -1,6 +1,8 @@
 const allowedCors = [
-  'https://mestoherokufrontend.herokuapp.com',
-  'http://mestoherokufrontend.herokuapp.comgit',
+  'https://mestoherokufrontend-5t2i.vercel.app',
+  'http://mestoherokufrontend-5t2i.vercel.app',
+  // 'https://mestoherokufrontend.herokuapp.com',
+  // 'http://mestoherokufrontend.herokuapp.comgit',
   'localhost:3000',
   'http://localhost:3000',
 ];
